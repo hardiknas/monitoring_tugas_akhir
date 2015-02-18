@@ -1,0 +1,8 @@
+*1. Tambahkan Penginputan No SK Pembimbing 
+*2. Tambahkan Penginputan Nama Dekan di SK Pembimbing dan SK Penguji (3 Penguji)
+*3. Tambahkan Penginputan Penguji pada Ujian
+*4. Daftar Mahasiswa Yang Sudah Ujian Proposal, Ujian Hasil, Ujian Meja
+*5. Daftar Mahasiswa Yang Belum Ujian Proposal, Ujian Hasil, Ujian Meja
+*6. Laporan Berdasarkan Tahun & Jurusan
+*7. Komentar Judul Ditolak
+*8. Pemabatasan Kuota Ujian Per Tahun
