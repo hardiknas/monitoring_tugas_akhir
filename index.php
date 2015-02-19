@@ -206,6 +206,4 @@ include 'config/paginginfo.php';
     </div>
 </section>
 </body>
-
-<!-- Mirrored from wbpreview.com/previews/WB052C9L0/index.php by HTTrack Website Copier/3.x [XR&CO'2010], Wed, 02 Jan 2013 20:58:57 GMT -->
 </html>

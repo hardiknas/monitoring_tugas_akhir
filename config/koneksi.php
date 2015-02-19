@@ -1,8 +1,7 @@
 <?php
-// Pengaturan Database
 $server = "localhost";
-$user = "root";
-$password = "a14";
+$user = "root"; 
+$password = "a14"; 
 $database = "ow_zm2";
 
 // Connect Ke Mysql
